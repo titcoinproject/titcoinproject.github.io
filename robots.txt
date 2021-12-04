@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://titcoin.github.io/sitemap.xml
+Sitemap: https://www.titcoinproject.org/sitemap.xml
